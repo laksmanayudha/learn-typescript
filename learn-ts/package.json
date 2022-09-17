@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  },
+  "name": "learn-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "npx tsc sandbox.ts -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

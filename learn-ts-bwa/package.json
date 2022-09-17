@@ -1,0 +1,14 @@
+{
+  "name": "learn-ts-bwa",
+  "version": "1.0.0",
+  "description": "learning TypeScript in BWA platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
